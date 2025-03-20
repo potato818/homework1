@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "C:/path/to/your/python.exe",   
+  "editor.tabSize": 4,  
+  "editor.insertSpaces": true,  
+  "files.autoSave": "onWindowChange",  
+  "python.formatting.provider": "black"  
+}

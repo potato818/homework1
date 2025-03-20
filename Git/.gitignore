@@ -1,0 +1,26 @@
+# 忽略系統資料夾
+$RECYCLE.BIN/
+System Volume Information/
+
+# 忽略其他不需要的資料夾
+060/
+7-Zip/
+CPUZ/
+EPIC/
+JAVA/
+LDPlayer/
+Locale Emulator/
+NIKKE_HMT/
+OBS/
+RPG master/
+SteamLibrary/
+Wuthering Waves/
+arduino/
+ce/
+forge/
+nobody/
+office/
+osu!/
+rainbowsix x sige/
+six/
+
